@@ -936,10 +936,14 @@ PlayerSettings:
     Build: 0
     Collab: 0
     ErrorHub: 0
+    Game Performance: 0
     Game_Performance: 0
     Hub: 0
+    Legacy Analytics: 0
     Purchasing: 0
+    UDP: 0
     UNet: 0
+    Unity Ads: 0
     Unity_Ads: 0
   luminIcon:
     m_Name: 
@@ -962,11 +966,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 6a9f2a18-04bc-43c3-b984-c3a430e77c3f
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: BiRPToHDRP-Practice2 (1)
+  organizationId: matjio
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   hmiLoadingImage: {fileID: 0}
