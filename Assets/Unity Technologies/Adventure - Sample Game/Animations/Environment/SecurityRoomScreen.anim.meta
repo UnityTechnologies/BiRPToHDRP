@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c74cd37dcaaf102469a7cedb7dc19a38
+timeCreated: 1462790458
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Animations/Environment/SecurityRoomScreen.anim
+  uploadId: 552658

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a914eadc484be8c46959df648c426130
+timeCreated: 1460715187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Materials/SecurityRoom/SecurityRoomPotPlant.mat
+  uploadId: 552658

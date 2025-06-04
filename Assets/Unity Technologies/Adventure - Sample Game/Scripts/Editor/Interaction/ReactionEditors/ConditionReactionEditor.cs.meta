@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c267e6d7c88ecbc4db66bd706f8d5c78
+timeCreated: 1469439901
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scripts/Editor/Interaction/ReactionEditors/ConditionReactionEditor.cs
+  uploadId: 552658

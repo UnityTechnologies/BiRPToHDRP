@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01f421d8bc530244086ff91432577f30
+timeCreated: 1460976460
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Materials/SecurityRoom/BlackUnlit1.mat
+  uploadId: 552658

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01925231685fa424d9449a5c20ab6d7c
+timeCreated: 1459267227
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Fonts/FontLicense.txt
+  uploadId: 552658

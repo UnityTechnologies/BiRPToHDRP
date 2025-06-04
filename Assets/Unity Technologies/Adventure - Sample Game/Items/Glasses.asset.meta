@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0776cdb931cbdb4b83c5035ebf49463
+timeCreated: 1466771878
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Items/Glasses.asset
+  uploadId: 552658

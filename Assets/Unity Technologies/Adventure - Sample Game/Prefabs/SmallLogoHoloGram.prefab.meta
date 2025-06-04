@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 70555508c70cbfb48bc821f173fabb76
+timeCreated: 1473418858
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Prefabs/SmallLogoHoloGram.prefab
+  uploadId: 552658

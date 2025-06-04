@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1951f82f59d03f840ab348ba47fe4123
+timeCreated: 1460733362
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Materials/SecurityRoom/Glow.mat
+  uploadId: 552658

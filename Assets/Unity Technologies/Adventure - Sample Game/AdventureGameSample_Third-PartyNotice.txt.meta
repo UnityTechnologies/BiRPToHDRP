@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9169f95a54285d24fa4a4a6b59e88f49
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/AdventureGameSample_Third-PartyNotice.txt
+  uploadId: 552658

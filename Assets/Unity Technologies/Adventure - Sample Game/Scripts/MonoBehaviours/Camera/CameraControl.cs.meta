@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 740e682d67841cb4ca4620d2bee866b0
+timeCreated: 1457346790
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scripts/MonoBehaviours/Camera/CameraControl.cs
+  uploadId: 552658

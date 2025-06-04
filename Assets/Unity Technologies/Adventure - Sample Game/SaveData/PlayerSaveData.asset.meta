@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55d72825bf06cf44e9cbc1b37812cc6f
+timeCreated: 1469182417
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/SaveData/PlayerSaveData.asset
+  uploadId: 552658

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12ff5bb3c39b7b647bba8fc00a1989a8
+timeCreated: 1473261853
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scenes/SecurityRoom/NavMesh.asset
+  uploadId: 552658

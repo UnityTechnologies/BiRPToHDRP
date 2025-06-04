@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd02464d008c790478d9826aba7c7847
+timeCreated: 1468925721
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Resources/AllConditions.asset
+  uploadId: 552658

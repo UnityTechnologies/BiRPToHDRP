@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b804958e1981f9544989d65e32719692
+timeCreated: 1465897313
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scripts/ScriptableObjects/Interaction/Reactions/DelayedReactions/PickedUpItemReaction.cs
+  uploadId: 552658

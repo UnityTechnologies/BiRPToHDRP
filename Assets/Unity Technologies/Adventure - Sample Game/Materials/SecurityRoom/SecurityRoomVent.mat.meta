@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 672c629381309834cb348cf9b63f30ee
+timeCreated: 1461688312
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Materials/SecurityRoom/SecurityRoomVent.mat
+  uploadId: 552658

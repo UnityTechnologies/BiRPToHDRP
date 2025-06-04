@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 960df0195dd11f948ab2c803eda026c2
+timeCreated: 1470324680
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scenes/Market/MarketLightmapParameter.giparams
+  uploadId: 552658

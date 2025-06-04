@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d85941078afdf3244b2a1ae50fea256c
+timeCreated: 1465295951
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scripts/MonoBehaviours/Interaction/Interactable.cs
+  uploadId: 552658

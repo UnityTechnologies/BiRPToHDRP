@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b077babc2a21bfc4a9d4f1494b20a391
+timeCreated: 1465896551
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scripts/ScriptableObjects/Interaction/Abstracts/DelayedReaction.cs
+  uploadId: 552658

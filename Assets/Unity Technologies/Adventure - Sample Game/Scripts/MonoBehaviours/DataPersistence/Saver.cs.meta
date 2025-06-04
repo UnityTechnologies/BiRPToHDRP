@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e2aca70c4271e084f93bdc3fbfb733a8
+timeCreated: 1469113066
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scripts/MonoBehaviours/DataPersistence/Saver.cs
+  uploadId: 552658

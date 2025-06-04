@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d24caee896ca7114aafaf607d9760c9d
+timeCreated: 1469451826
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Items/Coin.asset
+  uploadId: 552658

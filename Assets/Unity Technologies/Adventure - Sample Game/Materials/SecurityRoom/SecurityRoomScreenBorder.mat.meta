@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 50b075c92c0718d43ba136105f9dd1a6
+timeCreated: 1460715187
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Materials/SecurityRoom/SecurityRoomScreenBorder.mat
+  uploadId: 552658

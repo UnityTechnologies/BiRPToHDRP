@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 033a89b479ed0e242a87bbdd65d50c7a
+timeCreated: 1460125454
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Materials/GlassesMaterialNoHighlight.mat
+  uploadId: 552658

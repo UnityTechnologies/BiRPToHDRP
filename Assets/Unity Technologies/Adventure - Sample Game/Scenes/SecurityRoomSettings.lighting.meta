@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce26797e275414dbd9b5736cfd5bc033
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scenes/SecurityRoomSettings.lighting
+  uploadId: 552658

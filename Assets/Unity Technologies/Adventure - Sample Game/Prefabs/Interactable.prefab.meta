@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d48734bd22479a14cb1a52b40aa09db4
+timeCreated: 1466765579
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Prefabs/Interactable.prefab
+  uploadId: 552658

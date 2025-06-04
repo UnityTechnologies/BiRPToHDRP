@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7635c0ad095ddcb4389731c35e45c833
+timeCreated: 1461922925
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Shaders/Hologram.shader
+  uploadId: 552658

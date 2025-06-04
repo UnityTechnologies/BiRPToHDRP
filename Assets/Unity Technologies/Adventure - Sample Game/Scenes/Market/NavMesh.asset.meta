@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 98b9c93af4ba5f24d823a1c6f098d0d9
+timeCreated: 1473252686
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 76216
+  packageName: Adventure - Sample Game
+  packageVersion: 2.1.0
+  assetPath: Assets/Unity Technologies/Adventure - Sample Game/Scenes/Market/NavMesh.asset
+  uploadId: 552658
