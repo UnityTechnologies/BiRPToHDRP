@@ -126,7 +126,7 @@ Material:
     - _ExcludeFromTUAndAA: 0
     - _Exposure: 2000
     - _Glossiness: 0.5
-    - _Intensity: 100
+    - _Intensity: -100
     - _InvFade: 1.08
     - _MaterialID: 1
     - _MaterialTypeMask: 2
